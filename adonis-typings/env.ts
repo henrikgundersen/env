@@ -108,7 +108,7 @@ declare module '@ioc:Adonis/Core/Env' {
 		boolean: BooleanType
 
 		/**
-		 * Boolean function to enforce value to be one of the defined values.
+		 * Enum function to enforce value to be one of the defined values.
 		 */
 		enum: EnumType
 	}
